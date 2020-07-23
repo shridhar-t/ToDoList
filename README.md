@@ -2,11 +2,11 @@
 
 https://to-do-list-routes.herokuapp.com/
 
-This Site uses a NodeJS server which is deployed on Heroku.This Server renders the required ToDoList, from a Database(MongoDB), with the help EJS(Embedded Java Script).
+This Site uses a NodeJS server which is deployed on Heroku.This Server renders the required ToDoList, from a Database(MongoDB), with the help of EJS(Embedded Java Script).
 
 Any route you access creates a New List on the database with that route name.
 
-All the data is persisted on a DataBase i.e, the routes you access and lists you create are there on the webpage even after you visit again.
+All the data is persisted on a DataBase i.e, the routes you access and lists you create are there on the webpage even when you visit again.
 
 #### Technologies Used:-
 1. NodeJs
